@@ -1,4 +1,4 @@
-**Customer Experience Analytics for Fintech Apps**  
+## **Customer Experience Analytics for Fintech Apps**  
  A data engineering and NLP project to analyze user reviews of Ethiopian banks' mobile apps using web scraping, sentiment analysis, thematic clustering, visualization, and Oracle database integration.
 
 ---
