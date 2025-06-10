@@ -1,9 +1,5 @@
-# 📄 Python script to generate README.md for fintech-review-analytics project
-
-readme_content = '''# 📚 fintech-review-analytics — README
-
-> **Customer Experience Analytics for Fintech Apps**  
-> A data engineering and NLP project to analyze user reviews of Ethiopian banks' mobile apps using web scraping, sentiment analysis, thematic clustering, visualization, and Oracle database integration.
+**Customer Experience Analytics for Fintech Apps**  
+ A data engineering and NLP project to analyze user reviews of Ethiopian banks' mobile apps using web scraping, sentiment analysis, thematic clustering, visualization, and Oracle database integration.
 
 ---
 
